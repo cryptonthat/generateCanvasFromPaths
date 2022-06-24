@@ -1,0 +1,22 @@
+{
+  "name": "generate-canvas",
+  "version": "1.0.1",
+  "description": "Generate a JS Canvas from an Array of Layer Filepaths",
+  "main": "generateCanvasFromPaths.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptonthat/generateCanvasFromPaths.git"
+  },
+  "author": "Crypto N That",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptonthat/generateCanvasFromPaths/issues"
+  },
+  "homepage": "https://github.com/cryptonthat/generateCanvasFromPaths#readme",
+  "dependencies": {
+    "canvas": "^2.9.2"
+  }
+}
